@@ -1,0 +1,9 @@
+C:\Users\idurfer\Documents\NetBeansProjects\BatcherDeProcesos-main\BatcherDeProcesos-main\src\main\java\com\mycompany\batcherdeprocesosrecuperacion\BatcherDeProcesosRecuperacion.java
+C:\Users\idurfer\Documents\NetBeansProjects\BatcherDeProcesos-main\BatcherDeProcesos-main\src\main\java\com\mycompany\batcherdeprocesosrecuperacion\loader\JobLoader.java
+C:\Users\idurfer\Documents\NetBeansProjects\BatcherDeProcesos-main\BatcherDeProcesos-main\src\main\java\com\mycompany\batcherdeprocesosrecuperacion\model\Job.java
+C:\Users\idurfer\Documents\NetBeansProjects\BatcherDeProcesos-main\BatcherDeProcesos-main\src\main\java\com\mycompany\batcherdeprocesosrecuperacion\model\YamlJob.java
+C:\Users\idurfer\Documents\NetBeansProjects\BatcherDeProcesos-main\BatcherDeProcesos-main\src\main\java\com\mycompany\batcherdeprocesosrecuperacion\process\ProcessCreator.java
+C:\Users\idurfer\Documents\NetBeansProjects\BatcherDeProcesos-main\BatcherDeProcesos-main\src\main\java\com\mycompany\batcherdeprocesosrecuperacion\resource\ResourceManager.java
+C:\Users\idurfer\Documents\NetBeansProjects\BatcherDeProcesos-main\BatcherDeProcesos-main\src\main\java\com\mycompany\batcherdeprocesosrecuperacion\runTask\RunTasks.java
+C:\Users\idurfer\Documents\NetBeansProjects\BatcherDeProcesos-main\BatcherDeProcesos-main\src\main\java\com\mycompany\batcherdeprocesosrecuperacion\storage\JobStorage.java
+C:\Users\idurfer\Documents\NetBeansProjects\BatcherDeProcesos-main\BatcherDeProcesos-main\src\main\java\com\mycompany\batcherdeprocesosrecuperacion\worker\Worker.java

@@ -1,0 +1,8 @@
+id: job-3
+name: "Test3"
+priority: 3
+resources:
+  cpu_cores: 1
+  memory: "256 MB"
+workload:
+  duration_ms: 3000

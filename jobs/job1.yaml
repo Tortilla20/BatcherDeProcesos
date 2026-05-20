@@ -1,0 +1,8 @@
+id: job-1
+name: "Test"
+priority: 2
+resources:
+  cpu_cores: 1
+  memory: "512 MB"
+workload:
+  duration_ms: 5000

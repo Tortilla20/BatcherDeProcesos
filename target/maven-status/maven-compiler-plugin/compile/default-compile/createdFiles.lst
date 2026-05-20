@@ -1,0 +1,12 @@
+com\mycompany\batcherdeprocesosrecuperacion\worker\Worker.class
+com\mycompany\batcherdeprocesosrecuperacion\BatcherDeProcesosRecuperacion.class
+com\mycompany\batcherdeprocesosrecuperacion\loader\JobLoader.class
+com\mycompany\batcherdeprocesosrecuperacion\runTask\RunTasks.class
+com\mycompany\batcherdeprocesosrecuperacion\model\Job$State.class
+com\mycompany\batcherdeprocesosrecuperacion\model\YamlJob.class
+com\mycompany\batcherdeprocesosrecuperacion\process\ProcessCreator.class
+com\mycompany\batcherdeprocesosrecuperacion\resource\ResourceManager.class
+com\mycompany\batcherdeprocesosrecuperacion\model\Job.class
+com\mycompany\batcherdeprocesosrecuperacion\storage\JobStorage.class
+com\mycompany\batcherdeprocesosrecuperacion\model\YamlJob$Resources.class
+com\mycompany\batcherdeprocesosrecuperacion\model\YamlJob$Workload.class
